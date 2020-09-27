@@ -13,4 +13,4 @@ https://github.com/ATThorsen/JavaScript_1/tree/master/week3
 https://github.com/ATThorsen/JavaScript_1/tree/master/week4
 
 # week5
-https://github.com/ATThorsen/JavaScript_1/tree/master/week5
+https://github.com/ATThorsen/JavaScript_1/tree/master/week5/t1
