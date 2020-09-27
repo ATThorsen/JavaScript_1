@@ -57,7 +57,7 @@ var reducer = members.reduce((acc, members, idx, arr)=>{
     return parseInt(acc/arr.length)
 }   else {
     return temp
-}
+} 
 
 }, "")
     console.log(reducer)

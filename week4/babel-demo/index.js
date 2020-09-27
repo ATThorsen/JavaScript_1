@@ -24,8 +24,7 @@ Promise.all([myPromise(1), myPromise(2)]).then((res) => {
   console.log();
 });
 
-//Get any promises 
-//Makes 2 calls, but only returns the first that returns
+//Get any promises ES-Next function
 Promise.any([myPromise(3), myPromise(4)]).then((res) => {
   console.log("Promise.any:");
   console.log(res.name);
