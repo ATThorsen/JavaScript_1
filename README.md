@@ -1,4 +1,5 @@
 # JavaScript_1
+#P2 svar
 
 # Week1
 https://github.com/ATThorsen/JavaScript_1/tree/master/week1
