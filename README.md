@@ -1,5 +1,8 @@
 # JavaScript_1
 
+# P2 svar 
+https://docs.google.com/document/d/1q9u_qu_GfJHsJXP0K8toWYAB1Himl5YFyfarsuG0Dxc/edit?ts=5fafa0d2#
+
 # Week1
 https://github.com/ATThorsen/JavaScript_1/tree/master/week1
 
